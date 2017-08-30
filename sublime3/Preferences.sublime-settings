@@ -1,0 +1,28 @@
+{
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+
+    "trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
+
+    "show_encoding": true,
+    "show_line_endings": true,
+
+
+    "match_brackets": false,
+    "match_brackets_content": false,
+    "match_brackets_square": false,
+    "match_brackets_braces": false,
+    "match_brackets_angle": false,
+    "match_tags": false,
+
+    "hot_exit": false,
+
+    "font_face": "Fira Code",
+    "font_size": 11,
+    "line_padding_top": 3,
+    "line_padding_bottom": 3,
+
+}
